@@ -1,1 +1,1 @@
-# Boston-marathon-classification-project
+# Boston-marathon-project
